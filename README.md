@@ -1,16 +1,27 @@
-# tugas_menggunakan_modul2
+# 📱 Manajemen Produk - Flutter
 
-A new Flutter project.
+Aplikasi sederhana berbasis **Flutter** untuk menampilkan daftar produk, menambah produk baru, dan melihat detail produk.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Fitur Utama
+- Tambah produk dengan nama, deskripsi, dan harga  
+- Tampilkan daftar produk yang sudah ditambahkan  
+- Lihat detail produk secara lengkap  
+- Desain menggunakan **Material 3** dan tema **Deep Purple**
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 💻 Tampilan Program
+| Daftar Produk | Tambah Produk | Detail Produk |
+|----------------|----------------|----------------|
+| ![List Produk](screenshots/list_produk.png) | ![Tambah Produk](screenshots/add_produk.png) | ![Detail Produk](screenshots/detail_produk.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Simpan screenshot hasil aplikasi di folder `screenshots/`.
+
+---
+
+## ⚙️ Cara Menjalankan
+```bash
+flutter pub get
+flutter run
