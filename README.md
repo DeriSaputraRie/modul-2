@@ -13,9 +13,9 @@ Aplikasi sederhana berbasis **Flutter** untuk menampilkan daftar produk, menamba
 ---
 
 ## 💻 Tampilan Program
-| Daftar Produk | Tambah Produk | Detail Produk |
+| Daftar Produk | Tambah Produk | Preview Code |
 |----------------|----------------|----------------|
-| ![List Produk](screenshots/list_produk.png) | ![Tambah Produk](screenshots/add_produk.png) | ![Detail Produk](screenshots/detail_produk.png) |
+| ![List Produk](daftar_produk.png) | ![Tambah Produk](tambah_produk.png) | ![Detail Produk]modul2.png) |
 
 > Simpan screenshot hasil aplikasi di folder `screenshots/`.
 
@@ -25,3 +25,4 @@ Aplikasi sederhana berbasis **Flutter** untuk menampilkan daftar produk, menamba
 ```bash
 flutter pub get
 flutter run
+
