@@ -1,5 +1,6 @@
 # 📱 Manajemen Produk - Flutter
-
+**Dikerjakan oleh: Deri Saputra**  
+**NIM: STI202303338**
 Aplikasi sederhana berbasis **Flutter** untuk menampilkan daftar produk, menambah produk baru, dan melihat detail produk.
 
 ---
@@ -25,5 +26,6 @@ Aplikasi sederhana berbasis **Flutter** untuk menampilkan daftar produk, menamba
 ```bash
 flutter pub get
 flutter run
+
 
 
